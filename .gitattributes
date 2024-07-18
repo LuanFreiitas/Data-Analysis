@@ -1,0 +1,2 @@
+AnalisandodadoscomPython filter=lfs diff=lfs merge=lfs -text
+AnalisandodadoscomPython.ipynb filter=lfs diff=lfs merge=lfs -text

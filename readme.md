@@ -10,7 +10,7 @@ Fui contratado por uma empresa com mais de 800 mil clientes para um projeto de D
 
 Precisando melhorar seus resultados ela quer conseguir entender os principais motivos desses cancelamentos e quais as ações mais eficientes para reduzir esse número.
  
-# Em qualquer projeto, inicialmente precisamos planejar as etapas que iremos seguir, para facilitar o processo e otimizar nosso tempo, segue abaixo o passo a passo para análise de dados:
+### Em qualquer projeto, inicialmente precisamos planejar as etapas que iremos seguir, para facilitar o processo e otimizar nosso tempo, segue abaixo o passo a passo para análise de dados:
 Passo 1: Importar a base de dados (utilização de uma biblioteca)
 Passo 2: Visualizar a base de dados
 * Encontrar as cagadas da base de dados

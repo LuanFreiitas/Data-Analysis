@@ -40,7 +40,7 @@ Foi configurando o Git LFS para rastrear os arquivos na pasta " Analisandodadosc
 
     //Rastrear a pasta "AnalisandodadoscomPython.ipynb" 
     git lfs track "AnalisandodadoscomPython.ipynb/*" 
-
+Após, continuar o procedimento normal commitando e upando o arquivo pelo Git.
   
 **🚀Tecnologias:**
 - [Python](https://developer.mozilla.org/pt-BR/docs/Glossary/Python)
